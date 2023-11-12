@@ -23,19 +23,19 @@ pt.teamMovedAFK = "{player} AFK olduğu için {team} takımına taşınıldı."
 
 pt.spectateFailed = "Ölü değilsin. İzleyici olamazsın."
 
-pt.murdererDisconnect = "Katil rage quit attı."
-pt.murdererDisconnectKnown = "Murderer, namı diğer {murderer} rage quit attı."
+pt.murdererDisconnect = "Katil sinirlenip çıktı."
+pt.murdererDisconnectKnown = "Katil, namı diğer {murderer} sinirlenip çıktı."
 
 pt.winBystanders = "Masumlar kazandı!"
-pt.winBystandersMurdererWas = " {murderer} katil rolündeydi."
+pt.winBystandersMurdererWas = "{murderer} katil rolündeydi."
 pt.winMurderer = "Katil kazandı!"
-pt.winMurdererMurdererWas = " Onun adı buydu: {murderer}"
+pt.winMurdererMurdererWas = "Onun adı buydu: {murderer}"
 
-pt.minimumPlayers = "Randın başlaması için yeterince oyuncu yok."
-pt.roundStarted = "Yeni bir rand başladı."
+pt.minimumPlayers = "Raundun başlaması için yeterince oyuncu yok."
+pt.roundStarted = "Yeni bir raunt başladı."
 
 
-pt.adminMurdererSelect = "{player} sıradaki rand katil olacak."
+pt.adminMurdererSelect = "{player} sıradaki raunt katil olacak."
 pt.adminMurdererForce = "Sıradaki el zorla katil yap."
 pt.adminSpectate = "İzle"
 pt.adminMoveToSpectate = "{spectate} takımına taşı."
